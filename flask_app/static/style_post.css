@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+*{
+    margin: 10px;
+    padding: 0px;
+    font-family: 'Balsamiq Sans', cursive;
+    }
+
+    .header{
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .header p{
+        margin-left: 50px;
+    }
